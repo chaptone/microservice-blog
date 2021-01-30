@@ -1,0 +1,21 @@
+[submodule "microservice-blog-query"]
+	path = microservice-blog-query
+	url = https://github.com/chaptone/microservice-blog-query.git
+[submodule "microservice-blog-client"]
+	path = microservice-blog-client
+	url = https://github.com/chaptone/microservice-blog-client.git
+[submodule "microservice-blog-comments"]
+	path = microservice-blog-comments
+	url = https://github.com/chaptone/microservice-blog-comments.git
+[submodule "microservice-blog-event-bus"]
+	path = microservice-blog-event-bus
+	url = https://github.com/chaptone/microservice-blog-event-bus.git
+[submodule "microservice-blog-moderation"]
+	path = microservice-blog-moderation
+	url = https://github.com/chaptone/microservice-blog-moderation.git
+[submodule "microservice-blog-posts"]
+	path = microservice-blog-posts
+	url = https://github.com/chaptone/microservice-blog-posts.git
+[submodule "microservice-blog-infra"]
+	path = microservice-blog-infra
+	url = https://github.com/chaptone/microservice-blog-infra.git
